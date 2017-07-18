@@ -1,6 +1,7 @@
 ## symfony-project
 
-A project to become familiar with symfony and a PHP backend.
+A project to become familiar with a Symfony/PHP backend and a playground to practice
+things I am learning at Wellcome Trust.
 
 **run server:**  
 `php bin/console server:run`
